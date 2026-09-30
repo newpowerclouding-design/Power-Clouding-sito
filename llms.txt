@@ -12,7 +12,7 @@
 - Telefono: 06 3105 5548
 - WhatsApp: 339 468 5916
 - Attivo dal: 2011, sempre nella stessa sede di Via Tuscolana 1080
-- Servizi: consulenza gratuita nella scelta del dispositivo, assistenza post-vendita, centro assistenza autorizzato Kiwi (sostituzioni in garanzia in negozio, con registrazione dell'acquisto sul sito ufficiale Kiwi)
+- Servizi: consulenza gratuita nella scelta del dispositivo, assistenza post-vendita, centro assistenza autorizzato Kiwi (sostituzioni in garanzia direttamente in negozio, di solito sul momento, con scontrino e, per i modelli che lo prevedono, registrazione sul sito Kiwi)
 - Parcheggio: parcheggi gratuiti in strada e garage a ore nelle vicinanze
 
 ## Pagine
@@ -22,3 +22,4 @@
 - [Assistenza Kiwi](https://www.powerclouding.it/assistenza-kiwi/): come funziona la garanzia nel centro autorizzato
 - [Chi siamo](https://www.powerclouding.it/chi-siamo/): storia dal 2011 e modo di lavorare
 - [Contatti](https://www.powerclouding.it/contatti/): WhatsApp, telefono, indicazioni
+- [Guide](https://www.powerclouding.it/guide/): guide pratiche su KIWI (primo utilizzo, pod, garanzia), liquidi (conservazione, normativa, formati) e dispositivi (pod o box, resistenze, batterie)
