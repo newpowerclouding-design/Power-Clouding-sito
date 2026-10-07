@@ -83,6 +83,32 @@
           "value": "SAMEORIGIN"
         }
       ]
+    },
+    {
+      "source": "/.well-known/api-catalog",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/linkset+json"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    },
+    {
+      "source": "/.well-known/agent-skills/index.json",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
     }
   ],
   "rewrites": [
@@ -93,6 +119,14 @@
     {
       "source": "/.well-known/security.txt",
       "destination": "/security.txt"
+    },
+    {
+      "source": "/.well-known/agent-skills/index.json",
+      "destination": "/agent-skills-index.json"
+    },
+    {
+      "source": "/.well-known/api-catalog",
+      "destination": "/api-catalog.json"
     }
   ],
   "redirects": [
