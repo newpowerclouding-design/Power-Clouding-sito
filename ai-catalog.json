@@ -1,0 +1,31 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Power Clouding",
+    "identifier": "powerclouding.it",
+    "documentationUrl": "https://www.powerclouding.it/llms.txt"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:powerclouding.it:docs:llms-txt",
+      "displayName": "Power Clouding: informazioni sul negozio per assistenti AI",
+      "type": "text/plain",
+      "url": "https://www.powerclouding.it/llms.txt",
+      "representativeQueries": [
+        "Dove si trova Power Clouding a Roma?",
+        "Orari di Power Clouding in Via Tuscolana",
+        "Centro assistenza Kiwi vicino a Cinecittà"
+      ]
+    },
+    {
+      "identifier": "urn:air:powerclouding.it:docs:sitemap",
+      "displayName": "Mappa del sito Power Clouding",
+      "type": "application/xml",
+      "url": "https://www.powerclouding.it/sitemap.xml",
+      "representativeQueries": [
+        "Pagine del sito Power Clouding",
+        "Guide Kiwi di Power Clouding"
+      ]
+    }
+  ]
+}
