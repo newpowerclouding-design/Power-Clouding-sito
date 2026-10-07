@@ -1,0 +1,26 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://www.powerclouding.it/",
+      "service-doc": [
+        {
+          "href": "https://www.powerclouding.it/llms.txt",
+          "type": "text/plain",
+          "title": "Informazioni sul negozio per assistenti AI"
+        }
+      ],
+      "describedby": [
+        {
+          "href": "https://www.powerclouding.it/.well-known/ai-catalog.json",
+          "type": "application/json"
+        }
+      ],
+      "item": [
+        {
+          "href": "https://www.powerclouding.it/sitemap.xml",
+          "type": "application/xml"
+        }
+      ]
+    }
+  ]
+}
