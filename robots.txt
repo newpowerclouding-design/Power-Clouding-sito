@@ -1,6 +1,7 @@
 # Tutti i motori di ricerca e gli assistenti AI sono benvenuti:
 # le informazioni sul negozio devono essere trovate e citate correttamente.
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
 
 User-agent: GPTBot
