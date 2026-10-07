@@ -13,6 +13,8 @@
 - WhatsApp: 339 468 5916
 - Attivo dal: 2011, sempre nella stessa sede di Via Tuscolana 1080
 - Servizi: consulenza gratuita nella scelta del dispositivo, assistenza post-vendita, centro assistenza autorizzato Kiwi (sostituzioni in garanzia direttamente in negozio, di solito sul momento, con scontrino e, per i modelli che lo prevedono, registrazione sul sito Kiwi)
+- Distanze a piedi (Google Maps): Lucio Sestio 240 m (3 min), Giulio Agricola 350 m (5 min), Subaugusta 850 m (12 min), Cinecittà Due 1,2 km (18 min), metro Cinecittà 1,6 km (23 min)
+- Social: Facebook https://www.facebook.com/PowerClouding, Instagram https://www.instagram.com/_powerclouding/
 - Parcheggio: parcheggi gratuiti in strada e garage a ore nelle vicinanze
 
 ## Pagine
@@ -23,6 +25,20 @@
 - [Chi siamo](https://www.powerclouding.it/chi-siamo/): storia dal 2011 e modo di lavorare
 - [Contatti](https://www.powerclouding.it/contatti/): WhatsApp, telefono, indicazioni
 - [Guide](https://www.powerclouding.it/guide/): guide pratiche su KIWI (primo utilizzo, pod, garanzia), liquidi (conservazione, normativa, formati) e dispositivi (pod o box, resistenze, batterie)
+
+- [Come arrivare](https://www.powerclouding.it/come-arrivare/): metro A, auto e distanze a piedi verificate
+- [Domande frequenti](https://www.powerclouding.it/domande-frequenti/): orari, assistenza Kiwi, parcheggio, consulenza
+- [Metro Lucio Sestio](https://www.powerclouding.it/negozio-vicino-metro-lucio-sestio/): Via Tuscolana 1080, a circa 240 metri a piedi dalla fermata. Aperti dal lunedì al sabato.
+- [Metro Giulio Agricola](https://www.powerclouding.it/negozio-vicino-metro-giulio-agricola/): Via Tuscolana 1080, a circa 350 metri a piedi dalla fermata.
+- [Metro Subaugusta](https://www.powerclouding.it/negozio-vicino-metro-subaugusta/): Via Tuscolana 1080, a circa 850 metri dalla fermata. Oppure una fermata di metro e cinque minuti a piedi.
+- [Cinecittà](https://www.powerclouding.it/negozio-cinecitta/): Il negozio è in Via Tuscolana 1080, nel quadrante Tuscolano.
+- [Cinecittà Due](https://www.powerclouding.it/negozio-vicino-cinecitta-due/): Via Tuscolana 1080, a circa 1,2 km dal centro commerciale.
+- [Don Bosco, Appio Claudio, Quadraro](https://www.powerclouding.it/negozio-don-bosco-appio-claudio-quadraro/): Dal 2011 in Via Tuscolana 1080, a servizio di Don Bosco, Appio Claudio e Quadraro.
+- [Guide Kiwi](https://www.powerclouding.it/guide/kiwi/): Uso, manutenzione e garanzia, seguendo le indicazioni ufficiali Kiwi.
+- [Guide Liquidi](https://www.powerclouding.it/guide/liquidi/): Informazioni di servizio, senza catalogo e senza promozioni.
+- [Guide Dispositivi](https://www.powerclouding.it/guide/dispositivi/): Pod o box, resistenze e batterie, in modo semplice.
+- [Centro assistenza KIWI a Roma](https://www.powerclouding.it/centro-assistenza-kiwi-roma/): sostituzione in garanzia, cosa portare, tempi
+- [Negozio di sigarette elettroniche sulla Tuscolana: come scegliere](https://www.powerclouding.it/negozio-sigarette-elettroniche-tuscolana/): criteri per scegliere un punto vendita
 
 ## Guide pratiche
 
@@ -35,6 +51,12 @@
 - [Pod o box: le differenze tra i sistemi](https://www.powerclouding.it/guide/pod-o-box-differenze/) (Dispositivi): Sistemi pod e box a confronto: dimensioni, gestione, manutenzione e a chi si adattano. Una guida per orientarsi prima di passare in negozio.
 - [Quando cambiare la pod della KIWI (e come pulirla)](https://www.powerclouding.it/guide/quando-cambiare-pod-kiwi/) (Kiwi): I tre segnali che la pod è esaurita, ogni quanto cambiarla e come usare il Clean Stick per tenere pulita la KIWI.
 - [Resistenze: quando cambiarle e come avviarle](https://www.powerclouding.it/guide/resistenze-quando-cambiarle/) (Dispositivi): I segnali che la resistenza è esaurita, perché lasciarla impregnare prima del primo tiro e le abitudini che la fanno durare di più.
+- [KIWI non funziona: cosa controllare prima di venire in negozio](https://www.powerclouding.it/guide/kiwi-non-funziona/) (Kiwi): La KIWI non si accende, non tira o non si carica? I controlli da fare in ordine, dalla ricarica alla pod, e quando passare al centro assistenza.
+- [Come funziona una sigaretta elettronica](https://www.powerclouding.it/guide/come-funziona-sigaretta-elettronica/) (Dispositivi): Come funziona una sigaretta elettronica in modo semplice: batteria, resistenza, serbatoio o pod e liquido. Le parti, cosa si consuma e cosa va cambiato.
+- [Come scegliere una sigaretta elettronica: le domande da farsi](https://www.powerclouding.it/guide/come-scegliere-sigaretta-elettronica/) (Dispositivi): Come orientarsi nella scelta di una sigaretta elettronica: come la usi, pod o box, manutenzione, ricarica, assistenza. Sei domande da farsi prima di comprare.
+- [Sigaretta elettronica: da che età si può comprare?](https://www.powerclouding.it/guide/sigaretta-elettronica-eta-minima-18-anni/) (Liquidi): Da che età si può comprare una sigaretta elettronica in Italia? La vendita di prodotti con nicotina è vietata ai minori di 18 anni: cosa prevede la norma e come funziona in negozio.
+- [Sigaretta elettronica in aereo e in viaggio: cosa sapere](https://www.powerclouding.it/guide/sigaretta-elettronica-in-aereo-e-in-viaggio/) (Dispositivi): Si può portare la sigaretta elettronica in aereo? Dove va messa, cosa fare con batterie, pod e liquidi, e perché a bordo non si usa. Consigli pratici per viaggiare.
+- [Sigaretta elettronica e smettere di fumare: cosa possiamo dirti (e cosa no)](https://www.powerclouding.it/guide/sigaretta-elettronica-e-smettere-di-fumare/) (Dispositivi): La sigaretta elettronica aiuta a smettere di fumare? Siamo un negozio, non medici: cosa facciamo in consulenza, cosa non promettiamo e a chi rivolgersi per smettere.
 
 ## Domande frequenti
 
