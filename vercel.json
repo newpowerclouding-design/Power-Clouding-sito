@@ -94,5 +94,31 @@
       "source": "/.well-known/security.txt",
       "destination": "/security.txt"
     }
+  ],
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "header",
+          "key": "accept",
+          "value": ".*text/markdown.*"
+        }
+      ],
+      "destination": "/md/index.md",
+      "permanent": false
+    },
+    {
+      "source": "/:path((?!md/|_astro/|img/|video/|\\.well-known/).+)/",
+      "has": [
+        {
+          "type": "header",
+          "key": "accept",
+          "value": ".*text/markdown.*"
+        }
+      ],
+      "destination": "/md/:path.md",
+      "permanent": false
+    }
   ]
 }
