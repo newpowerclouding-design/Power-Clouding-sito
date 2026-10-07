@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "power-clouding-negozio",
+      "type": "skill-md",
+      "description": "Informazioni verificate su Power Clouding, negozio di sigarette elettroniche e centro assistenza Kiwi in Via Tuscolana 1080, Roma: indirizzo, orari, contatti, metro e assistenza.",
+      "url": "https://www.powerclouding.it/skills/power-clouding-negozio/SKILL.md",
+      "digest": "sha256:9307a49aba4db343a6cdee9d894442881890e6035a21e70a1810bf1c493f1a44"
+    }
+  ]
+}
